@@ -13,7 +13,8 @@ import org.springframework.web.servlet.ModelAndView;
 import com.tecsup.javawebavanzado.sesion05.model.Usuario;
 
 /**
- *  Cambios en el sprint-1
+ * Cambios para el registro de estudiantes
+ *  
  * @author jgomezm
  *
  */

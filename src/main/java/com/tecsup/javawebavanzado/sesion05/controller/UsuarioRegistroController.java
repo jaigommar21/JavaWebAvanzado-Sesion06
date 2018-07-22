@@ -12,7 +12,11 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.tecsup.javawebavanzado.sesion05.model.Usuario;
 
-
+/**
+ *  Cambios en el sprint-1
+ * @author jgomezm
+ *
+ */
 @Controller
 @RequestMapping("/registro")
 public class UsuarioRegistroController {
